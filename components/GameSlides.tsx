@@ -98,7 +98,7 @@ export const Game1Intro = () => (
   <div className="flex-1 flex flex-col items-center justify-center bg-pink-400 text-white p-12">
     <EmojiIcon emoji="🎮" />
     <Title color="text-yellow-300">GAME 1: 桌桌连连看</Title>
-    <SubTitle>拼手速，更拼“含金量”！<br/>主持人喊特征 -> 满足举手 -> 最快的一桌+1分</SubTitle>
+    <SubTitle>拼手速，更拼“含金量”！<br/>主持人喊特征 -{">"} 满足举手 -{">"} 最快的一桌+1分</SubTitle>
   </div>
 );
 
